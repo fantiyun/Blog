@@ -21,9 +21,8 @@ const CONFIG = {
   HEO_HERO_TITLE_1: '分享编程技术',
   HEO_HERO_TITLE_2: '与思维认知',
   // HEO_HERO_TITLE_3: 'fantiyun',
-  //HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: '将世间万物',
-  HEO_HERO_TITLE_6: '化为电子木鱼',
+  HEO_HERO_TITLE_4: '将世间万物',
+  HEO_HERO_TITLE_5: '化为电子木鱼',
   HEO_HERO_TITLE_LINK: 'https://github.com/fantiyun',
 
   // 英雄区显示三个置顶分类
