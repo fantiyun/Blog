@@ -5,12 +5,11 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客，希望你能在这里找到有趣的内容！', url: '' },
-    { title: '好好爱自己，把预期降低，把依赖减少，我们会越来越好！', url: '' },
-    { title: '未来已来', url: '' },
-    { title: '喜欢自己比喜欢世界重要。', url: '' },
-    { title: '愿我们都有前进一寸的勇气，亦有后退一尺的从容。', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '欢迎来到我的博客，希望你能在这里找到有趣的内容！', url: 'https://www.fantiyun.top' },
+    { title: '好好爱自己，把预期降低，把依赖减少，我们会越来越好！', url: 'https://www.fantiyun.top' },
+    { title: '未来已来，把握现在！', url: 'https://www.fantiyun.top/' },
+    { title: '喜欢自己比喜欢世界重要。', url: 'https://www.fantiyun.top' },
+    { title: '愿我们都有前进一寸的勇气，亦有后退一尺的从容。', url: 'https://www.fantiyun.top' },
   ],
 
   // 英雄区左右侧组件颠倒位置
