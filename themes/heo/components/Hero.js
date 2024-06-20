@@ -214,6 +214,7 @@ function GroupMenu() {
  */
 function TopGroup(props) {
   const { latestPosts, allNavPages, siteInfo } = props
+  console.log('siteInfo',siteInfo)
   const { locale } = useGlobal()
   const todayCardRef = useRef()
   function handleMouseLeave() {
