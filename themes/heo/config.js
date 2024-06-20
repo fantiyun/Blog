@@ -24,7 +24,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'fantiyun',
   // HEO_HERO_TITLE_4: '新版上线',
   // HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  // HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://github.com/fantiyun',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '热门精选', url: '/tag/热门精选' },
@@ -34,7 +34,7 @@ const CONFIG = {
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
   HEO_HERO_RECOMMEND_POST_SORT_BY_UPDATE_TIME: false, // 推荐文章排序，为`true`时将强制按最后修改时间倒序
-  //   HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
+  HERO_RECOMMEND_COVER: 'https://cdn.pixabay.com/photo/2015/10/30/20/13/sunrise-1014712_1280.jpg', // 英雄区右侧图片
 
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
@@ -46,7 +46,7 @@ const CONFIG = {
     '🤖️ 数码科技爱好者',
     '🧱 团队小组发动机'
   ],
-  HEO_INFO_CARD_URL: '', // 个人资料底部按钮链接
+  HEO_INFO_CARD_URL: 'https://github.com/fantiyun', // 个人资料底部按钮链接
 
   // 用户技能图标
   HEO_GROUP_ICONS: [
