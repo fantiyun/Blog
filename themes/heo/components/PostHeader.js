@@ -118,11 +118,12 @@ export default function PostHeader({ post, siteInfo, isDarkMode }) {
                   </Link>
                 </>
               )}
-
-              // <div className='pl-1 mr-2'>
-              //   <i className='fa-regular fa-calendar-check'></i>{' '}
-              //   {post.lastEditedDay}
-              // </div>
+              {/* 
+                <div className='pl-1 mr-2'>
+                  <i className='fa-regular fa-calendar-check'></i>{' '}
+                  {post.lastEditedDay}
+                </div>
+              */}
             </div>
 
             {/* 阅读统计 */}
